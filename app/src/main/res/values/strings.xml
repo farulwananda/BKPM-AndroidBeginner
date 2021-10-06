@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">SelectionWidget</string>
+
+    <string-array name="country">
+        <item>Indonesia</item>
+        <item>Malaysia</item>
+        <item>Singapore</item>
+        <item>Thailand</item>
+        <item>Vietnam</item>
+        <item>Kamboja</item>
+        <item>Filipina</item>
+    </string-array>
+    <string-array name="software_adobe">
+        <item>Adobe Acrobat</item>
+        <item>Adobe After Effect</item>
+        <item>Adobe Audition</item>
+        <item>Adobe Experience</item>
+        <item>Adobe Illustrator</item>
+        <item>Adobe Indesign</item>
+        <item>Adobe Lightroom</item>
+        <item>Adobe Photoshop</item>
+    </string-array>
+    <string-array name="description">
+        <item>This is random description</item>
+        <item>This is random description</item>
+        <item>This is random description</item>
+        <item>This is random description</item>
+        <item>This is random description</item>
+        <item>This is random description</item>
+        <item>This is random description</item>
+        <item>This is random description</item>
+    </string-array>
+</resources>
