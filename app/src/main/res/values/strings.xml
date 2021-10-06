@@ -21,13 +21,13 @@
         <item>Adobe Photoshop</item>
     </string-array>
     <string-array name="description">
-        <item>This is random description</item>
-        <item>This is random description</item>
-        <item>This is random description</item>
-        <item>This is random description</item>
-        <item>This is random description</item>
-        <item>This is random description</item>
-        <item>This is random description</item>
-        <item>This is random description</item>
+        <item>Membaca, memberi notasi, verifikasi PDF</item>
+        <item>Editing efek atau pembuatan efek pada video</item>
+        <item>Merekam, mixing dan mengedit audio.</item>
+        <item>Mendesain UI dan UX.</item>
+        <item>Menciptakan karya grafis.</item>
+        <item>Mengatur layout untuk media visual.</item>
+        <item>Pengedit  dan fungsi manipulasi foto.</item>
+        <item>Membuat dan mengedit gambar dalam banyak lapisan.</item>
     </string-array>
 </resources>
